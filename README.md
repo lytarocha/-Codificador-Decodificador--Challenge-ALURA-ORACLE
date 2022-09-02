@@ -54,4 +54,3 @@ Trello, Figma e Discord.
 
 
 
-Badge referente ao termino do Challenge
