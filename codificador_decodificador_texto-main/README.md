@@ -46,23 +46,15 @@ Cursos Alura:
 -	Alterar estilo da página com CSS.
 
 
-
-
-
 Utilizei as ferramentas
+
 
  [Trello](https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one), [Figma](https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=0%3A1) e Discord. 
 
  <img width="180px" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-alura.png">
 
  <div style="display:flex;" align="center">
-   <h2>Badge referente ao termino do Challenge</h2>
- </div>
+ 
 
-   <div style="display:flex;" align="center">
-  <img src=" width=  400 >
-
-  </div>
-
-**#challengeonedecodificador2**
+#challengeonedecodificador
 
